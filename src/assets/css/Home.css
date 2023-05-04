@@ -1,0 +1,9 @@
+.el-breadcrumb {
+  font-size: 14px;
+}
+.el-breadcrumb span {
+  color: #999;
+}
+.el-breadcrumb .current {
+  color: #333;
+}
